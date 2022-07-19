@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Anders Peter Sørensen
+- 👋 Hi, I’m Anders Peter Sørensen
 - 👀 I’m interested in frontend development and game coding
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking for web and app-development jobs and to collaborate on games
