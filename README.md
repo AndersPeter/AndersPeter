@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anders Peter Sørensen
 - 👀 I’m interested in frontend development and game coding
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning React and the MERN stack
 - 💞️ I’m looking for web and app-development jobs and to collaborate on games
 - 📫 How to reach me anderspeter1982@gmail.com
 
